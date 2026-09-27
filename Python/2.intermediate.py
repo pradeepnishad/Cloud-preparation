@@ -41,3 +41,17 @@ thislist = list(("apple", "banana", "cherry"))  # note the double round-brackets
 print(thislist)  # Output: ['apple', 'banana', 'cherry']
 
 
+
+print(thislist[1])
+
+
+thislist[1] = "blackcurrant"
+print(thislist)  # Output: ['apple', 'blackcurrant', 'cherry']
+
+thislist.append("orange")
+print(thislist)  # Output: ['apple', 'blackcurrant', 'cherry
+
+
+
+
+
