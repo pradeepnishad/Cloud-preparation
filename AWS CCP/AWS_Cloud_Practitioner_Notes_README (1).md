@@ -95,29 +95,3 @@ I created these notes alongside my AWS Cloud Practitioner study sessions. I also
 
 The notes are mainly focused on building a strong understanding of AWS fundamentals before moving into more hands-on work.
 
----
-
-## 🚀 What's Next?
-
-Now that the **AWS Cloud Practitioner** content is completed, the next step is more hands-on practice.
-
-I'll be building:
-
-- Beginner AWS projects
-- Intermediate AWS projects
-- Projects using core AWS services
-- Small architectures combining multiple AWS services
-
-The goal is to move from:
-
-**Theory → Hands-on → Projects → Troubleshooting**
-
----
-
-## ☁️ AWS Cloud Practitioner
-
-**Status:** Completed ✅
-
-The notes cover the AWS Cloud Practitioner topics I've studied, along with a dedicated **Variation Study** section for comparing similar services and concepts.
-
-**Next:** Build and experiment with AWS instead of only studying the theory.
